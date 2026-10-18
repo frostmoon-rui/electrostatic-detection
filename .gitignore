@@ -1,0 +1,10 @@
+# Keep external distributions, private material, and backups untracked.
+/*
+!/.gitignore
+!/AGENTS.md
+!/README.md
+!/LICENSE
+!/src/
+!/tests/
+__pycache__/
+*.pyc
